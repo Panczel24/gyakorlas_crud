@@ -1,0 +1,105 @@
+
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "cim": "Harry Potter és a bölcsek köve",
+      "szerzo": "J. K. Rowling",
+      "megjelenes": 1997,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-01-15",
+      "ertekeles": 9,
+      "kategoria": "Fantasy"
+    },
+    {
+      "id": 2,
+      "cim": "A Gyűrűk Ura",
+      "szerzo": "J. R. R. Tolkien",
+      "megjelenes": 1954,
+      "kolcsonozheto": false,
+      "felvetelDatuma": "2025-02-10",
+      "ertekeles": 10,
+      "kategoria": "Fantasy"
+    },
+    {
+      "id": 3,
+      "cim": "1984",
+      "szerzo": "George Orwell",
+      "megjelenes": 1949,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-03-05",
+      "ertekeles": 8,
+      "kategoria": "Sci-fi"
+    },
+    {
+      "id": 4,
+      "cim": "A kis herceg",
+      "szerzo": "Antoine de Saint-Exupéry",
+      "megjelenes": 1943,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-03-20",
+      "ertekeles": 9,
+      "kategoria": "Ifjúsági"
+    },
+    {
+      "id": 5,
+      "cim": "Az éhezők viadala",
+      "szerzo": "Suzanne Collins",
+      "megjelenes": 2008,
+      "kolcsonozheto": false,
+      "felvetelDatuma": "2025-04-12",
+      "ertekeles": 8,
+      "kategoria": "Fantasy"
+    },
+    {
+      "id": 6,
+      "cim": "A hobbit",
+      "szerzo": "J. R. R. Tolkien",
+      "megjelenes": 1937,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-05-01",
+      "ertekeles": 9,
+      "kategoria": "Fantasy"
+    },
+    {
+      "id": 7,
+      "cim": "A Pál utcai fiúk",
+      "szerzo": "Molnár Ferenc",
+      "megjelenes": 1906,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-05-18",
+      "ertekeles": 8,
+      "kategoria": "Ifjúsági"
+    },
+    {
+      "id": 8,
+      "cim": "Dűne",
+      "szerzo": "Frank Herbert",
+      "megjelenes": 1965,
+      "kolcsonozheto": false,
+      "felvetelDatuma": "2025-06-10",
+      "ertekeles": 10,
+      "kategoria": "Sci-fi"
+    },
+    {
+      "id": 9,
+      "cim": "A Da Vinci-kód",
+      "szerzo": "Dan Brown",
+      "megjelenes": 2003,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-07-02",
+      "ertekeles": 7,
+      "kategoria": "Krimi"
+    },
+    {
+      "id": 10,
+      "cim": "A láthatatlan ember",
+      "szerzo": "H. G. Wells",
+      "megjelenes": 1897,
+      "kolcsonozheto": true,
+      "felvetelDatuma": "2025-08-14",
+      "ertekeles": 8,
+      "kategoria": "Sci-fi"
+    }
+  ]
+}
