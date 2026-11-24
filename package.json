@@ -11,6 +11,7 @@
     "jsonserver": "json-server public/konyvek.json"
   },
   "dependencies": {
+    "bootstrap": "^5.3.9",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
